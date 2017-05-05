@@ -1,0 +1,2 @@
+# GARCH
+GARCH(1,1)--GBM in C++
